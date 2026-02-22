@@ -1,6 +1,5 @@
 test add
 
-![[Pasted image 20260222150121.png]] 
 
 „Moderní verze vyhoření: Všechno stíhám. Nic necítím. Doma jsme spolu. Ale každý sám, protože oba máme v hlavě zítřejší schůzky.“
 
