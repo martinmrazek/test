@@ -37,12 +37,14 @@
             "id": "c67efa93e1a3ee7f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "B01E01 🟩  - Nejste jen ve stresu. Žijete v rytmu, který vás ničí.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "B01E01 🟩  - Nejste jen ve stresu. Žijete v rytmu, který vás ničí"
             }
           }
         ],
@@ -191,11 +193,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c67efa93e1a3ee7f",
   "lastOpenFiles": [
+    "B01E02 🟩 - Přetížená doba. A přetížení my.md",
+    "B01E01 🟩  - Nejste jen ve stresu. Žijete v rytmu, který vás ničí.md",
     "Time track/2025-10-30 čt.md",
     "Time track/2025-10-31 pá.md",
     "Untitled 1.md",
@@ -223,8 +228,6 @@
     "Time track/2025-10-26 ne.md",
     "B01E04 🟨 - Tahoun -  Motor, který nikdy nezastaví.md",
     "B01E03 🟩 - Když úspěch bolí - Jak jsem zjistil, že nestačí jen všechno zvládat.md",
-    "B01E02 🟩 - Přetížená doba. A přetížení my.md",
-    "B01E01 🟩  - Nejste jen ve stresu. Žijete v rytmu, který vás ničí.md",
     "Time track",
     "Pasted image 20250606180811.png",
     "Obsidian 2025-10-29 07.14.12.png",
