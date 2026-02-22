@@ -1,0 +1,33 @@
+/* Increase space between bullet and text - ALL LEVELS */
+
+/* Edit mode - all bullet levels */
+.markdown-source-view.mod-cm6 .HyperMD-list-line .cm-formatting-list {
+  margin-right: 0.8em !important;
+}
+
+/* Reading view - all bullet levels */
+.markdown-preview-view ul li::marker {
+  margin-right: 1em;
+}
+
+.markdown-preview-view ul li {
+  padding-left: 0.5em;
+}
+
+/* Specifically target nested bullets in reading view */
+.markdown-preview-view ul ul li::marker,
+.markdown-preview-view ul ul ul li::marker,
+.markdown-preview-view ul ul ul ul li::marker {
+  margin-right: 1em;
+}
+
+.markdown-preview-view ul ul li,
+.markdown-preview-view ul ul ul li,
+.markdown-preview-view ul ul ul ul li {
+  padding-left: 0.5em;
+}
+
+/* Alternative approach - add space after ALL list markers */
+.cm-formatting-list-ul {
+  margin-right: 0.8em !important;
+}

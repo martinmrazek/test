@@ -1,0 +1,16 @@
+
+- Problém: když máte HSP nebo ADHD nebo depresi / dysthimii nebo PTSD, budete k chs a chp mnohem náchylnější
+- příčina: nervová soustava je u zmíněných specifik prostě citlivější, víc reaguje na zátěž
+	- jak to vypadá - pár příkladů
+		- HSP - trvale namáhán v open-space
+			- problém s vysokou citlivostí = 
+			- příčina = 
+			- ... 
+		- ADHD - častá úzkost / stres ze špatné schopnosti držet krok s okolím v práci
+		- deprese - 
+- řešení: speciální nastavení vyžaduje speciální podmínky a často i pomoc
+	- disclaimer: hranice všeho, co tu řikám jsou mimo jiné právě tyhle neurodivergence
+- cesta: odkazy na dotazníky - HSP, DASS-21
+	- bacha na sebe-diagnozu
+	- vyšší intenzita => odborník
+- 

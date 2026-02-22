@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 20,
+  "interfaceFontFamily": "Geneva,Helvetica Neue",
+  "translucency": true,
+  "textFontFamily": "Devanagari Sangam MN",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "bullet"
+  ]
+}
